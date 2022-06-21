@@ -41,7 +41,15 @@ Object and object instantiation
 """"""""""""""""""""""""""""""""
 Creating a particular instance for a red Honda City. ::
 	
-	obj = Car("Honda City","Red")
+	obj1 = Car("Honda City","Red")
+
+Creating another instance for a	blue Maruti Dzire. ::
+	
+	obj2 = Car("Maruti Dzire","Blue")
+
+.. image:: http://www.plantuml.com/plantuml/png/JOyn3i8m34NtdCBotg4TAu4goi320WT0fl5Gb2R8SOPoUbA9a0w9_P__j-GXAeccnPd9KOmmafZye8U9vA7hc-40U6TB7k4tyRHmCGKNn8JdYoU5NDfTtssUfZaMt49VDnLz2TuIZBEk-6StjbYpdTc-VRReAqdI6SwVMHYXyfDBZ6PWR_DTNm00
+   :class: with-border with-shadow
+   :alt: Objects as instances of a class.
 
 
 .. _Method:
