@@ -37,12 +37,12 @@ Now let's add name , color as we expect real world Sedan car to have one through
 
 .. _Object:
 
-Creating a particular instance for a red Honda City.
-obj = Car("Honda City","Red")
-
-
 Object and object instantiation
 """"""""""""""""""""""""""""""""
+Creating a particular instance for a red Honda City. ::
+	
+	obj = Car("Honda City","Red")
+
 
 .. _Method:
 
