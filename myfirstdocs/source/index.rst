@@ -26,15 +26,20 @@ Classes are user defined data structures (contrast with primitive data types-Int
 	class Car:
 		pass
 
-Now let's add name , color as we expect real world car to have one through class constructor _init_ :
+Now let's add name , color as we expect real world Sedan car to have one through class constructor _init_ :
 ::
 	class Car:
-		def __init__(self, name, color):
-			self.name = name
-			self.color = color
+		car_type = "Sedan"          #class attribute - common to all objects.
+		def __init__(self, name, color): 
+			self.name = name    #instance attribute -each instance may have different value.
+			self.color = color  #instance attribute -each instance may have different value.
 
 
 .. _Object:
+
+Creating a particular instance for a red Honda City.
+obj = Car("Honda City","Red")
+
 
 Object and object instantiation
 """"""""""""""""""""""""""""""""
