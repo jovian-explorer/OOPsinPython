@@ -5,7 +5,7 @@
 
 Welcome to OOPs in Python- a quick guide.
 ==========================================
-(Ref : https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/ Accessed on 21st June 2022)
+(Ref : https://www.analyticsvidhya.com/blog/2020/09/object-oriented-programming/ Accessed on 21st June 2022) . This is a  practise project for documentation and texts here are borrowed from the above references.
 
 *Object Oriented Programming concepts in Python*:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
