@@ -23,8 +23,14 @@ What is a class?
 """""""""""""""""
 Classes are user defined data structures (contrast with primitive data types-Integers,Float,Strings,Boolean) . It is also blueprint for creating many objects each with custom values. Let's begin with creating a car class without any details : 
 ::
-class Car:
-	pass
+	class Car:
+		pass
+
+Now let's add name , color as we expect real world car to have one through class constructor _init_  ::
+	class Car:
+		def __init__(self, name, color):
+			self.name = name
+			self.color = color
 
 
 .. _Object:
